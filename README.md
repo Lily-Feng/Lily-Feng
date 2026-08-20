@@ -1,9 +1,9 @@
 ```mermaid
 flowchart LR
-    A["🦖 Cubes & Caches<br/>2010–2015"] --> B["🎙️ Principal Consultant<br/>2015–2020"]
+    A["🦖 Cubes & Caches<br/>2010s"] --> B["🎙️ Principal Consultant<br/>2015s"]
     B --> C["💳 Massive-Scale<br/>Data Engineering"]
-    C --> D["☁️ Cloud & Lakehouse"]
-    D --> E["🤖 Agentic Systems<br/>MCP · loop engineering"]
+    C --> D["☁️ Open Source, Cloud & Lakehouse<br/>2020s"]
+    D --> E["🤖 Agentic Engineering<br/>API, CLI, MCP, EVALs"]
     E --> F{{"🚀 Next Adventure<br/>your logo here"}}
 
     style F stroke-dasharray: 5 5
