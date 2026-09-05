@@ -1,4 +1,4 @@
-<h1 align="center">I make data do tricks so AI doesn't hallucinate.</h1> <p align="center"> <em>15+ years of turning enterprise chaos into context a model can actually trust.</em> </p> <p align="center"> <img src="https://img.shields.io/badge/uptime-15%2B_years-0A66C2?style=flat-square" alt="uptime" /> <img src="https://img.shields.io/badge/status-open_to_the_next_big_thing-2EA043?style=flat-square" alt="status" /> <img src="https://img.shields.io/badge/MBA-freshly_compiled-F59E0B?style=flat-square" alt="mba" /> <img src="https://img.shields.io/badge/hallucinations-grounded_on_arrival-7C3AED?style=flat-square" alt="grounding" /> </p>
+<h1 align="center">I make data do tricks so AI doesn't hallucinate.</h1> <p align="center"> <em>15+ years of turning enterprise chaos into context a model can actually trust.</em> </p> 
 
 
 ```mermaid
