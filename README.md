@@ -11,6 +11,9 @@ flowchart LR
 
     style F stroke-dasharray: 5 5
 ```
+
+
+<p align="left"> <em>Learn interactively with my notes and simulations:</em> </p> 
 <p align="center">
   <!-- Calm Data & AI Button -->
   <a href="https://lily-feng.github.io/Calm.Data.and.AI/" target="_blank">
