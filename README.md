@@ -11,3 +11,14 @@ flowchart LR
 
     style F stroke-dasharray: 5 5
 ```
+<p align="center">
+  <!-- Calm Data & AI Button -->
+  <a href="https://lily-feng.github.io/Calm.Data.and.AI/" target="_blank">
+    <img src="https://img.shields.io/badge/Explore-Calm_Data_&_AI-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Calm Data and AI" />
+  </a>
+  
+  <!-- Reinforcement Learning Button -->
+  <a href="https://lily-feng.github.io/Reinforcement-Learning/" target="_blank">
+    <img src="https://img.shields.io/badge/Deep_Dive-Reinforcement_Learning-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Reinforcement Learning" />
+  </a>
+</p>
