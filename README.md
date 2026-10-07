@@ -26,8 +26,13 @@ flowchart LR
   </a>
 
   <!-- Tidepool data intelligence -->
-  <a href="[https://lily-feng.github.io/Reinforcement-Learning/](https://lily-feng.github.io/Tidepool-data-intelligence/)" target="_blank">
-    <img src="https://img.shields.io/badge/Tidepool data intelligence?style=for-the-badge&logo=github&logoColor=white" alt="Tidepool data intelligence" />
-  </a>
+  <a href="https://lily-feng.github.io/Tidepool-data-intelligence/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Tidepool%20Data%20Intelligence-111827?style=for-the-badge&logo=github&logoColor=white"
+    alt="Tidepool Data Intelligence"
+    width="260"
+    height="42"
+  />
+</a>
   
 </p>
